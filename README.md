@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Watheq ALshowaiter from Yemen. A gratuated student from Sana'a University in Information Technlogy.
+
+ - 🌱 I’m currently learning to be better web developer either in frontend or backend.  
+- 📫 How to reach me: throgh my [personal blog](http://watheq.xyz/) wich have all my social accounts, or with my email: watheq[dot]alshowaiter[at]gmail[dot]com.
+- and more of my CV in this [link](https://seirah.com/watheq?lang=en);
+
 <!--
 **WatheqAlshowaiter/WatheqAlshowaiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
