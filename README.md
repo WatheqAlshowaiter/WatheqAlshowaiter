@@ -7,7 +7,7 @@
 - ⚡ I love reading about many topics with a life-long learner mindset.
 - 🌱 I am currently Learning Node.js, Express.js, and MongoDB.
 - 📫 You can reach me through my [personal blog](http://watheq.xyz/) which have all my social accounts, or with my email: watheq[dot]alshowaiter[at]gmail[dot]com.
-- and more of my [CV](https://drive.google.com/drive/u/1/folders/1XiXeaevXq74kncnpIV6yGmhawQV4_1Tk).
+- and more of my [CV](https://drive.google.com/file/d/1S3LtmKttVJciOa5D47v6A5XLTakdBpUl/view?usp=sharing).
 <!--
 **WatheqAlshowaiter/WatheqAlshowaiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
