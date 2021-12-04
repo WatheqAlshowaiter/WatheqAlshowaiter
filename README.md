@@ -6,7 +6,7 @@
 - ✍️ I am also a blogger with decent technical blog posts and I have translated some technical posts from English to Arabic.
 - ⚡ I love reading about many topics with a life-long learner mindset.
 - 📫 You can reach me through my [personal blog](http://watheq.xyz/) which have all my social accounts, or with my email: watheq[dot]alshowaiter[at]gmail[dot]com.
-- and more of my [CV](https://drive.google.com/file/d/1S3LtmKttVJciOa5D47v6A5XLTakdBpUl/view?usp=sharing).
+- and more of my [CV](https://drive.google.com/file/d/1Y3GC47MzuMFwrtWVMn-M2ZFlX09923S-/view?usp=sharing).
 <!--
 **WatheqAlshowaiter/WatheqAlshowaiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
