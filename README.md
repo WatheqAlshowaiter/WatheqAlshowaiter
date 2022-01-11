@@ -28,24 +28,24 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=watheqalshowaiter&label=Profile%20views&color=0e75b6&style=flat" alt="watheqalshowaiter" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watheqalshowaiter" alt="watheqalshowaiter" /></a> </p>
+_
+<p align="left"> <a href="https://twitter.com/watheq_show" target="_blank"><img src="https://img.shields.io/twitter/follow/watheq_show?logo=twitter&style=for-the-badge" alt="watheq_show" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/watheq_show" target="blank"><img src="https://img.shields.io/twitter/follow/watheq_show?logo=twitter&style=for-the-badge" alt="watheq_show" /></a> </p>
+- 🌱 I’m currently learning **Vue.js**.
 
-- 🌱 I’m currently learning **Vue.js**
+- 👨‍💻 All of my projects are available at [https://watheq.xyz/](http://watheq.xyz/).
 
-- 👨‍💻 All of my projects are available at [http://watheq.xyz/](http://watheq.xyz/)
+- 📝 I regularly write articles on [https://watheq.xyz/blog](https://watheq.xyz/blog).
 
-- 📝 I regularly write articles on [https://watheq.xyz/blog](https://watheq.xyz/blog)
+- 💬 Ask me about **Laravel, Livewire, and Tailwind**.
 
-- 💬 Ask me about **Laravel, Livewire, and Tailwind**
+- 📫 How to reach me **watheq[dot]alshowaiter[at]gmail.com**.
 
-- 📫 How to reach me **watheq[dot]alshowaiter[at]gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Y3GC47MzuMFwrtWVMn-M2ZFlX09923S-/view?usp=sharing](https://drive.google.com/file/d/1Y3GC47MzuMFwrtWVMn-M2ZFlX09923S-/view?usp=sharing)
+- 📄 Know about my experiences in my [CV](https://drive.google.com/file/d/1Y3GC47MzuMFwrtWVMn-M2ZFlX09923S-/view?usp=sharing).
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+BLOG-POST-LIST:START
+BLOG-POST-LIST:END
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
