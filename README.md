@@ -1,6 +1,5 @@
-### Hi there 👋
 
-- 💻 Hello, I am Watheq, I am a web developer with a very strong passion to solve problems and make an impact using programming. I am skilled in both front-end **(HTML/CSS/JavaScript/React/Tailwind/Sass)** and back-end stacks **(PHP/MySQL/Laravel)**. 
+
 - 🎓 I have graduated from Sana'a Unversity in Yemen in 2019 with an IT major.
 - 🎓 I have graduated from Re:Coded frontend bootcamp in 2020.
 - ✍️ I am also a blogger with decent technical blog posts and I have translated some technical posts from English to Arabic.
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Watheq Alshowaiter</h1>
-<p align="left">I am a web developer with a very strong passion to solve problems and make an impact using programming. I am skilled in both front-end ** <b>(HTML/CSS/JavaScript/React/Tailwind/Sass)</b> and back-end stacks <b>(PHP/MySQL/Laravel)</b>.</p>
+<p align="left">I am a web developer with a very strong passion to solve problems and make an impact using programming. I am skilled in both front-end <b>(HTML/CSS/JavaScript/React/Tailwind/Sass)</b> and back-end stacks <b>(PHP/MySQL/Laravel)</b>.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=watheqalshowaiter&label=Profile%20views&color=0e75b6&style=flat" alt="watheqalshowaiter" /> </p>
 
