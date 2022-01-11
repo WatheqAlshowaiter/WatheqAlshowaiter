@@ -43,22 +43,22 @@ _
 
 - 📄 Know about my experiences in my [CV](https://drive.google.com/file/d/1Y3GC47MzuMFwrtWVMn-M2ZFlX09923S-/view?usp=sharing).
 
-### Blogs posts
-BLOG-POST-LIST:START
-BLOG-POST-LIST:END
+<!-- ### Blogs posts -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/watheq_show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="watheq_show" height="30" width="40" /></a>
-<a href="https://dev.to/watheqalshowaiter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="watheqalshowaiter" height="30" width="40" /></a>
-<a href="https://twitter.com/watheq_show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="watheq_show" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/watheq-show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="watheq-show" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/watheq-alshowaiter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="watheq-alshowaiter" height="30" width="40" /></a>
-<a href="https://fb.com/watheq.show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="watheq.show" height="30" width="40" /></a>
-<a href="https://instagram.com/watheq_show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="watheq_show" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc-ipcpdhqihpnpownhcd-mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-ipcpdhqihpnpownhcd-mg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/watheq_show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="watheq_show" height="30" width="40" /></a>
-<a href="/https://watheq.xyz/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://watheq.xyz/feed.xml" height="30" width="40" /></a>
+<a target="_blank" href="https://codepen.io/watheq_show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="watheq_show" height="30" width="40" /></a>
+<a target="_blank" href="https://dev.to/watheqalshowaiter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="watheqalshowaiter" height="30" width="40" /></a>
+<a target="_blank" href="https://twitter.com/watheq_show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="watheq_show" height="30" width="40" /></a>
+<a target="_blank" href="https://linkedin.com/in/watheq-show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="watheq-show" height="30" width="40" /></a>
+<a target="_blank" href="https://stackoverflow.com/users/watheq-alshowaiter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="watheq-alshowaiter" height="30" width="40" /></a>
+<a target="_blank" href="https://fb.com/watheq.show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="watheq.show" height="30" width="40" /></a>
+<a target="_blank" href="https://instagram.com/watheq_show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="watheq_show" height="30" width="40" /></a>
+<a target="_blank" href="https://www.youtube.com/c/https://www.youtube.com/channel/uc-ipcpdhqihpnpownhcd-mg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-ipcpdhqihpnpownhcd-mg" height="30" width="40" /></a>
+<a target="_blank" href="https://www.hackerrank.com/watheq_show" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="watheq_show" height="30" width="40" /></a>
+<a target="_blank" href="/https://watheq.xyz/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://watheq.xyz/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
