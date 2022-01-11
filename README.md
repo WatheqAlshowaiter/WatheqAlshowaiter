@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Watheq Alshowaiter</h1>
-<p align="left">I am a web developer with a very strong passion to solve problems and make an impact using programming. I am skilled in both front-end **(HTML/CSS/JavaScript/React/Tailwind/Sass)** and back-end stacks **(PHP/MySQL/Laravel)**.</p>
+<p align="left">I am a web developer with a very strong passion to solve problems and make an impact using programming. I am skilled in both front-end ** <b>(HTML/CSS/JavaScript/React/Tailwind/Sass)</b> and back-end stacks <b>(PHP/MySQL/Laravel)</b>.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=watheqalshowaiter&label=Profile%20views&color=0e75b6&style=flat" alt="watheqalshowaiter" /> </p>
 
