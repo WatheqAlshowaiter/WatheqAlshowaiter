@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Watheq Alshowaiter</h1>
-<h3 align="center">I am a web developer with a very strong passion to solve problems and make an impact using programming. I am skilled in both front-end **(HTML/CSS/JavaScript/React/Tailwind/Sass)** and back-end stacks **(PHP/MySQL/Laravel)**.</h3>
+<h3 align="left">I am a web developer with a very strong passion to solve problems and make an impact using programming. I am skilled in both front-end **(HTML/CSS/JavaScript/React/Tailwind/Sass)** and back-end stacks **(PHP/MySQL/Laravel)**.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=watheqalshowaiter&label=Profile%20views&color=0e75b6&style=flat" alt="watheqalshowaiter" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watheqalshowaiter" alt="watheqalshowaiter" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/watheq_show" target="blank"><img src="https://img.shields.io/twitter/follow/watheq_show?logo=twitter&style=for-the-badge" target="_blank" alt="watheq_show" /></a> </p>
+<p align="left"> <a href="https://twitter.com/watheq_show" target="blank"><img src="https://img.shields.io/twitter/follow/watheq_show?logo=twitter&style=for-the-badge" alt="watheq_show" /></a> </p>
 
 - 🌱 I’m currently learning **Vue.js**
 
