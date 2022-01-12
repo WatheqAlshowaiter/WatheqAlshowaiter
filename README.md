@@ -13,7 +13,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=watheqalshowaiter&label=Profile%20views&color=0e75b6&style=flat" alt="watheqalshowaiter" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watheqalshowaiter" alt="watheqalshowaiter" /></a> </p>
-_
+
 <p align="left"> <a href="https://twitter.com/watheq_show" target="_blank"><img src="https://img.shields.io/twitter/follow/watheq_show?logo=twitter&style=for-the-badge" alt="watheq_show" /></a> </p>
 
 - 🌱 I’m currently learning **Vue.js**.
