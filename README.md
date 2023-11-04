@@ -1,4 +1,4 @@
-
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
 - 🎓 I have graduated from Sana'a Unversity in Yemen in 2019 with an IT major.
 - 🎓 I have graduated from Re:Coded frontend bootcamp in 2020.
