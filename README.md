@@ -27,11 +27,13 @@ my [CV](https://drive.google.com/file/d/1Y3GC47MzuMFwrtWVMn-M2ZFlX09923S-/view?u
   to [ar-php](https://github.com/khaled-alshamaa/ar-php/).
 - [Add isFemale parameter](https://github.com/khaled-alshamaa/ar-php/pull/75)
   to [ar-php](https://github.com/khaled-alshamaa/ar-php/).
-- [Add the Arabic extension](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/pull/336)
+- [Add the Arabic extension](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/pull/336).
   to [vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) VS Code extension. This is the extension [link](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-arabic).
-- [Add Yemeni related data to fake data generator python library](https://github.com/linuxscout/arabic-mimesis/pull/14) 
-### Side Projects
+- [Add Yemeni related data to fake data generator python library](https://github.com/linuxscout/arabic-mimesis/pull/14).
+- [implement free Google translation service for translation-checker package](https://github.com/Bottelet/translation-checker/pull/12).
+- [add custom prompt to open AI translation for translation-checker package](https://github.com/Bottelet/translation-checker/pull/17).
 
+### Side Projects
 - [Yemen Open Source](https://github.com/YemenOpenSource) Collection of Yemeni Open Source projects, fork them on
   GitHub, and reshare them on social media.
 - [Yahya Paintings](https://yahyapaintings.com/) My uncle painting gallery website.
