@@ -29,9 +29,11 @@ my [CV](https://drive.google.com/file/d/1Y3GC47MzuMFwrtWVMn-M2ZFlX09923S-/view?u
   to [ar-php](https://github.com/khaled-alshamaa/ar-php/).
 - [Add the Arabic extension](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/pull/336).
   to [vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) VS Code extension. This is the extension [link](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-arabic).
-- [Add Yemeni related data to fake data generator python library](https://github.com/linuxscout/arabic-mimesis/pull/14).
-- [implement free Google translation service for translation-checker package](https://github.com/Bottelet/translation-checker/pull/12).
-- [add custom prompt to open AI translation for translation-checker package](https://github.com/Bottelet/translation-checker/pull/17).
+- [Add Yemeni related data to fake data generator python library](https://github.com/linuxscout/arabic-mimesis/pull/14) to[linuxscout/arabic-mimesis](https://github.com/linuxscout/arabic-mimesis).
+- [implement free Google translation service for translation-checker package](https://github.com/Bottelet/translation-checker/pull/12) to [Bottelet/translation-checker](https://github.com/Bottelet/translation-checker).
+- [add custom prompt to open AI translation for translation-checker package](https://github.com/Bottelet/translation-checker/pull/17) to [Bottelet/translation-checker](https://github.com/Bottelet/translation-checker).
+- [add OpenGraph::setImage for adding images and remove old ones](https://github.com/artesaos/seotools/pull/335) to [artesaos/seotools](https://github.com/artesaos/seotools).
+- [feat: add count and boolean methods for available transactions](https://github.com/spatie/laravel-model-states/pull/290) to [spatie/laravel-model-states]([https://github.com/artesaos/seotools](https://github.com/spatie/laravel-model-states).
 
 ### Side Projects
 - [Yemen Open Source](https://github.com/YemenOpenSource) Collection of Yemeni Open Source projects, fork them on
