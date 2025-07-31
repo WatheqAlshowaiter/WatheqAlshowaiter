@@ -23,17 +23,18 @@ my [CV](https://drive.google.com/file/d/1Y3GC47MzuMFwrtWVMn-M2ZFlX09923S-/view?u
 
 ### Open source contributions
 
-- [Add nameOnly parameter](https://github.com/khaled-alshamaa/ar-php/pull/66)
-  to [ar-php](https://github.com/khaled-alshamaa/ar-php/).
-- [Add isFemale parameter](https://github.com/khaled-alshamaa/ar-php/pull/75)
-  to [ar-php](https://github.com/khaled-alshamaa/ar-php/).
-- [Add the Arabic extension](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/pull/336).
-  to [vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker) VS Code extension. This is the extension [link](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-arabic).
-- [Add Yemeni related data to fake data generator python library](https://github.com/linuxscout/arabic-mimesis/pull/14) to[linuxscout/arabic-mimesis](https://github.com/linuxscout/arabic-mimesis).
-- [implement free Google translation service for translation-checker package](https://github.com/Bottelet/translation-checker/pull/12) to [Bottelet/translation-checker](https://github.com/Bottelet/translation-checker).
-- [add custom prompt to open AI translation for translation-checker package](https://github.com/Bottelet/translation-checker/pull/17) to [Bottelet/translation-checker](https://github.com/Bottelet/translation-checker).
-- [add OpenGraph::setImage for adding images and remove old ones](https://github.com/artesaos/seotools/pull/335) to [artesaos/seotools](https://github.com/artesaos/seotools).
-- [feat: add count and boolean methods for available transactions](https://github.com/spatie/laravel-model-states/pull/290) to [spatie/laravel-model-states]([https://github.com/artesaos/seotools](https://github.com/spatie/laravel-model-states).
+- [Ar-PHP](https://github.com/khaled-alshamaa/ar-php/pulls?q=is%3Apr+author%3AWatheqAlshowaiter+archived%3Afalse+is%3Amerged+is%3Apublic+)
+
+- [Bottelet/translation-checker](https://github.com/Bottelet/translation-checker/pulls?q=is%3Apr+author%3AWatheqAlshowaiter+archived%3Afalse+is%3Amerged+is%3Apublic+)
+
+- [The Arabic extension](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/pull/336) for the [Spelling Checker for Visual Studio Code](https://github.com/streetsidesoftware/vscode-spell-checker) extension. [Extension link](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-arabic) with more than 13k downloads.
+
+- [Added Yemeni-related data to the fake data generator Python library](https://github.com/linuxscout/arabic-mimesis/pull/14) in [linuxscout/arabic-mimesis](https://github.com/linuxscout/arabic-mimesis).
+
+<!-- Until Merged -->
+<!-- - [Spatie](https://github.com/pulls?q=is%3Amerged+is%3Apr+user%3Aspatie+archived%3Afalse+author%3AWatheqAlshowaiter) -->
+<!-- - [artesaos/seotools](https://github.com/artesaos/seotools/pulls?q=is%3Apr+author%3AWatheqAlshowaiter+archived%3Afalse+is%3Amerged+is%3Apublic+).  -->
+
 
 ### Side Projects
 - [Yemen Open Source](https://github.com/YemenOpenSource) Collection of Yemeni Open Source projects, fork them on
