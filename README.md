@@ -25,6 +25,8 @@ my [CV](https://drive.google.com/file/d/1Y3GC47MzuMFwrtWVMn-M2ZFlX09923S-/view?u
 
 - [Ar-PHP](https://github.com/khaled-alshamaa/ar-php/pulls?q=is%3Apr+author%3AWatheqAlshowaiter+archived%3Afalse+is%3Amerged+is%3Apublic+)
 
+- [Spatie](https://github.com/pulls?q=is%3Amerged+is%3Apr+user%3Aspatie+archived%3Afalse+author%3AWatheqAlshowaiter)
+
 - [Bottelet/translation-checker](https://github.com/Bottelet/translation-checker/pulls?q=is%3Apr+author%3AWatheqAlshowaiter+archived%3Afalse+is%3Amerged+is%3Apublic+)
 
 - [The Arabic extension](https://github.com/streetsidesoftware/vscode-cspell-dict-extensions/pull/336) for the [Spelling Checker for Visual Studio Code](https://github.com/streetsidesoftware/vscode-spell-checker) extension. [Extension link](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-arabic) with more than 13k downloads.
@@ -32,7 +34,6 @@ my [CV](https://drive.google.com/file/d/1Y3GC47MzuMFwrtWVMn-M2ZFlX09923S-/view?u
 - [Added Yemeni-related data to the fake data generator Python library](https://github.com/linuxscout/arabic-mimesis/pull/14) in [linuxscout/arabic-mimesis](https://github.com/linuxscout/arabic-mimesis).
 
 <!-- Until Merged -->
-<!-- - [Spatie](https://github.com/pulls?q=is%3Amerged+is%3Apr+user%3Aspatie+archived%3Afalse+author%3AWatheqAlshowaiter) -->
 <!-- - [artesaos/seotools](https://github.com/artesaos/seotools/pulls?q=is%3Apr+author%3AWatheqAlshowaiter+archived%3Afalse+is%3Amerged+is%3Apublic+).  -->
 
 
