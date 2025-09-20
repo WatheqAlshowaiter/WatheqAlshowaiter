@@ -14,8 +14,7 @@ my [CV](https://drive.google.com/file/d/1Y3GC47MzuMFwrtWVMn-M2ZFlX09923S-/view?u
 
 ### Open Source projects/packages
 
-- [Model Required Fields](https://github.com/WatheqAlshowaiter/model-required-fields) Laravel package for getting the
-  required model fields, excluding primary keys, nullable fields, and fields with defaults.
+- [Model Fields](https://github.com/WatheqAlshowaiter/model-fields) Laravel package for getting model fields fast — required, nullable, or default.
 - [Backup Tables](https://github.com/WatheqAlshowaiter/backup-tables) Laravel package for backup single or multiple
   database tables with ease.
 - [Yemen Info](https://github.com/YemenOpenSource/Yemen-info) Programming files for Yemeni governorates, districts,
