@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Watheq Alshowaiter</h1>
-<p align="left">Full stack web developer with +3 years of experience in web development, has worked on a variety of projects ranging from
+<p align="left">Full stack web developer with experience since 2021 in web development, has worked on a variety of projects ranging from
 personal blogs to high-performance projects with hundreds of thousands of users.
 
 I have a keen interest in anything
