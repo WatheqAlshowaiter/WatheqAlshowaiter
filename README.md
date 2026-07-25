@@ -20,6 +20,7 @@ my [CV](https://drive.google.com/file/d/1Y3GC47MzuMFwrtWVMn-M2ZFlX09923S-/view?u
 - [Yemen Info](https://github.com/YemenOpenSource/Yemen-info) Programming files for Yemeni governorates, districts,
   uzaal, and villages.
 - [Filament Sticky Table Header](https://github.com/WatheqAlshowaiter/filament-sticky-table-header) A Filament plugin that makes table headers stick when scrolling down for better UX.
+- [Quran Validator for PHP](https://github.com/WatheqAlshowaiter/quran-validator-php) Validate and verify Quranic verses in LLM-generated text with high accuracy.
 
 ### Open source contributions
 
